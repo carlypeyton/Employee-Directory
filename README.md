@@ -2,12 +2,11 @@
 
 ## Project Description
 
+This Employee Directory, built using React.js, allows the user to search through hundreds of employees, searching for or filtering employees by name. 
 
 ### Business Context
 
-
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
 
 ### User Story
 
@@ -29,6 +28,8 @@ The user should be able to:
 
 ## Application Walkthrough
 
+![Application Walkthrough](Demo.gif)
+
 ## Deployed Application
 
-## Installation Instructions
+This application is deployed on heroku at https://tranquil-dusk-31741.herokuapp.com/.
