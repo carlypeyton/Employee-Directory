@@ -2,7 +2,7 @@ import React from "react"
 import "../style/style.css";
 
 const headerStyle = {
-  fontSize: "4.5rem",
+  fontSize: "4rem",
   fontWeight: "bolder",
 }
 
@@ -26,12 +26,6 @@ function SearchBar(props) {
               placeholder="Search Employees"
               onChange={props.handleInputChange}
             />
-            {/* <button
-              type="submit"
-              value=""
-              className="searchButton"
-              onClick={props.handleEmployeeSearch}>Search
-            </button> */}
           </div>
         </div>
       </div>
