@@ -32,5 +32,5 @@ The user should be able to:
 
 ## Deployed Application
 
-This application is deployed on heroku at 
-* https://tranquil-dusk-31741.herokuapp.com/.
+This application is deployed on Github Pages at 
+* https://carlypeyton.github.io/Employee-Directory/
