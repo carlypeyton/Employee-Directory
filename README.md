@@ -34,3 +34,10 @@ The user should be able to:
 
 This application is deployed on Github Pages at 
 * https://carlypeyton.github.io/Employee-Directory/
+
+## Technologies Used
+* react
+* axios
+* boostrap
+* react-bootstrap
+* node
